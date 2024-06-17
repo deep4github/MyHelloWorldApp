@@ -1,0 +1,14 @@
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\net8.0\MyHelloWorldApp.exe
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\net8.0\MyHelloWorldApp.deps.json
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\net8.0\MyHelloWorldApp.runtimeconfig.json
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\net8.0\MyHelloWorldApp.dll
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\bin\Debug\net8.0\MyHelloWorldApp.pdb
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\net8.0\MyHelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\net8.0\MyHelloWorldApp.AssemblyInfoInputs.cache
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\net8.0\MyHelloWorldApp.AssemblyInfo.cs
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\net8.0\MyHelloWorldApp.csproj.CoreCompileInputs.cache
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\net8.0\MyHelloWorldApp.dll
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\net8.0\refint\MyHelloWorldApp.dll
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\net8.0\MyHelloWorldApp.pdb
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\net8.0\MyHelloWorldApp.genruntimeconfig.cache
+C:\learning\MyHelloWorldApp\MyHelloWorldApp\obj\Debug\net8.0\ref\MyHelloWorldApp.dll
